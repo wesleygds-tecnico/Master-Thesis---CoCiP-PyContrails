@@ -7,15 +7,15 @@ Required Setup
 --------------
 
 0. **Environment Setup**
-------------------------------------------------------------
-     - Install all required Python packages using the provided requirements.txt:
-       ```
-       pip install -r requirements.txt
-       ```
-       or
-       ```
-       conda install --yes --file requirements.txt
-       ```     
+   - Ensure you have a working Python/Conda environment.
+   - Install the required packages using the following command:
+     ```
+     pip install -r requirements.txt
+     ```
+     or
+     ```     
+     conda install --yes --file requirements.txt
+     ``` 
      - Ensure you have access credentials and a proper API key/signature to use the ECMWF ERA5 API.
        API access may be requested with support of: https://cds.climate.copernicus.eu/user-guide
   
