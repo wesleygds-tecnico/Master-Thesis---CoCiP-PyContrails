@@ -1,0 +1,15 @@
+HRES
+Access
+Users within ECMWF Member and Co-operating States may contact their Computing Representative to obtain access to MARS. All other users may request a username and password and then get an api key.
+
+Provide url, key, and email credentials on input, or see ECMWF API Client documentation to configure local ~/.ecmwfapirc file:
+
+{
+    "url": "https://api.ecmwf.int/v1",
+    "email": "<email>",
+    "key": "<key>"
+}
+Reference
+HRES High resolution forecast
+
+ENS Ensemble forecast
