@@ -12,7 +12,7 @@ Required Setup
           ```
          pip install -r requirements.txt
           ```
-          or
+     or
           ```
           conda install --yes --file requirements.txt
           ```     
