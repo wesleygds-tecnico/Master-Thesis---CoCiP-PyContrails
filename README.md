@@ -1,4 +1,4 @@
-Author: Wesley Gonçalves da Silva - IST1105271
+CoCiP through PyContrails Pipeline
 ------------------------------------------------------------
 
 This pipeline processes meteorological and air traffic data to estimate contrail impacts using the CoCiP model, including scenarios involving SAF (Sustainable Aviation Fuel).
