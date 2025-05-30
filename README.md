@@ -12,6 +12,9 @@ Required Setup
      ```
     pip install -r requirements.txt
      ```
+     ```
+     conda install --yes --file requirements.txt
+     ```     
 - Ensure you have access credentials and a proper API key/signature to use the ECMWF ERA5 API.
   You can request access and follow setup instructions from: https://cds.climate.copernicus.eu/user-guide
   
